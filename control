@@ -1,0 +1,12 @@
+Package: com.milodarling.snowswitch
+Name: SnowSwitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Author: Milo Darling <milodarling98+snowspring@gmail.com>
+Depiction: http://rcrepo.com/depictions/?dep=com.milodarling.snowswitch
+Priority: extra
+Section: Tweaks
+Description: Make you phone snow!
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Homepage: http://reddit.com/r/rcrepo
+Maintainer: TheMacMini09 <themacmini09@gmail.com>

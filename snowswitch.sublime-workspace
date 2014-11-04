@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ar",
+				"arg3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Switch.x",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/theos.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/milodarling/Documents/snowswitch",
+		"/Users/milodarling/Documents/snowswitch/.theos",
+		"/Users/milodarling/Documents/snowswitch/.theos/packages",
+		"/Users/milodarling/Documents/snowswitch/Packages"
+	],
+	"file_history":
+	[
+		"/Users/milodarling/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/milodarling/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/milodarling/Documents/snowswitch/snowswitch.sublime-project",
+		"/Users/milodarling/Documents/snowswitch/.theos/last_package",
+		"/Users/milodarling/Documents/snowswitch/.theos/packages/com.milodarling.snowswitch-0.0.1",
+		"/Users/milodarling/Documents/snowswitch/Switch.x",
+		"/Users/milodarling/theos/makefiles/targets/Darwin/simulator.mk",
+		"/Users/milodarling/theos/makefiles/common.mk",
+		"/Users/milodarling/Downloads/tweaks-master/freefall/Makefile",
+		"/Users/milodarling/Downloads/Theos-Examples-master/CallNow/Makefile",
+		"/Volumes/NO NAME/Mississippi/src/mississippi.java",
+		"/Users/milodarling/Documents/UDID-protected-cydia-repo/protect/Packages",
+		"/Users/milodarling/Documents/UDID-protected-cydia-repo/protect/debs/com.yourpackage.awesomepackage/DEBIAN/control",
+		"/Users/milodarling/Downloads/com.rcr.gaseousdope/DEBIAN/control",
+		"/Users/milodarling/Documents/goawayperiodbutton/Makefile",
+		"/usr/bin/dpkg-ex",
+		"/Users/milodarling/Documents/RCRepo/My crap/com.ibbignerd.customtext/DEBIAN/control",
+		"/Users/milodarling/Documents/goawayperiodbutton/GoAwayPeriodButtonChrome/Makefile",
+		"/Users/milodarling/Downloads/Hermes-master 2/WhatsApp/Makefile",
+		"/Users/milodarling/Downloads/Hermes-master 2/Makefile",
+		"/Users/milodarling/Documents/iPhone Developement/bootloopfixer.command",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/milodarling/Downloads/net.angelxwind.completeppsyncremover/DEBIAN/postinst",
+		"/Users/milodarling/Documents/Theos-Examples/PassChanger/Tweak.xm",
+		"/Users/milodarling/theos/include/Foundation/NSNotificationCenter.h",
+		"/Users/milodarling/theos/makefiles/rules.mk",
+		"/Users/milodarling/theos/makefiles/tweak.mk",
+		"/Users/milodarling/theos/templates/iphone/tweak.nic/Makefile",
+		"/Users/milodarling/theos/templates/iphone/tweak.nic/NIC/control.pl",
+		"/Users/milodarling/theos/templates/iphone/tweak.nic/NIC/control",
+		"/Users/milodarling/theos/templates/iphone/tweak.nic/control",
+		"/Users/milodarling/Downloads/StatusBarFix/control/preinst",
+		"/Users/milodarling/Downloads/Chronos/var/mobile/Library/LockHTML/Chronos/LockBackground.html",
+		"/Users/milodarling/Downloads/Chronos/DEBIAN/control",
+		"/Users/milodarling/Downloads/nolsdate/Makefile",
+		"/Users/milodarling/Downloads/Theos-Examples-master/RespringNotifier/Tweak.xm",
+		"/opt/theos/makefiles/targets/Darwin/iphone.mk",
+		"/Users/milodarling/Downloads/hostsswitchsource/HostsFileFlipswitch/Switch.x",
+		"/Users/milodarling/Downloads/var/mobile/Documents/scoretop.lua",
+		"/Users/milodarling/Downloads/DEBIAN/control",
+		"/Users/milodarling/Downloads/DEBIAN/prerm",
+		"/Users/milodarling/Downloads/DEBIAN/postinst",
+		"/Users/milodarling/Downloads/nolsdate/Tweak.xm",
+		"/Users/milodarling/Downloads/DEBIAN/postrm",
+		"/Users/milodarling/Downloads/DEBIAN/preinst",
+		"/Users/milodarling/Downloads/alwayshdrenabled-master/control",
+		"/Users/milodarling/Downloads/alwayshdrenabled-master/Makefile",
+		"/Users/milodarling/Downloads/alwayshdrenabled-master/.theos/last_package",
+		"/Users/milodarling/Downloads/alwayshdrenabled-master/Tweak.xm",
+		"/opt/theos/include/QuartzCore/QuartzCore-Structs.h",
+		"/opt/theos/include/IOSurface/IOSurfaceClient.h",
+		"/opt/theos/include/IOSurface/IOSurfaceBase.h",
+		"/opt/theos/include/IOSurface/IOSurfaceAccelerator.h",
+		"/opt/theos/include/IOSurface/IOSurface.h",
+		"/Users/milodarling/Downloads/alwayshdrenabled-master/alwayshdrenabled/AlwaysHDREnabled.mm",
+		"/Users/milodarling/Downloads/gist9172197-bbb5720c0a984c18a795103528e8f2fbfa24ce34/Double Door.lua",
+		"/Users/milodarling/Downloads/Page Squeeze.lua",
+		"/Users/milodarling/Downloads/Payload/Payload/DEBIAN/postrm",
+		"/Users/milodarling/Downloads/Payload/Payload/DEBIAN/control",
+		"/Users/milodarling/Downloads/PhotoBooth/DEBIAN/prerm",
+		"/Users/milodarling/Downloads/PhotoBooth/DEBIAN/postinst",
+		"/Users/milodarling/Downloads/Packages",
+		"/Users/milodarling/Downloads/Liquid Swag/com.rcr.liquidswag/DEBIAN/control",
+		"/Users/milodarling/Downloads/Liquid Swag/com.rcrepo.liquidswag_1.0_iphoneos-arm/DEBIAN/control",
+		"/Users/milodarling/DEBIAN/prerm",
+		"/Users/milodarling/DEBIAN/preinst",
+		"/Users/milodarling/DEBIAN/postinst",
+		"/Users/milodarling/Downloads/XPasscode/DEBIAN/control",
+		"/Users/milodarling/Downloads/cowsay-3.03/install.sh",
+		"/usr/bin/ssh-copy-id"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"osx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Switch.x",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1217,
+								1217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Objective-C/Objective-C.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "snowswitch.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 286.0,
+		"selected_items":
+		[
+		],
+		"width": 498.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
